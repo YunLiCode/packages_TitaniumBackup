@@ -1,0 +1,571 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: pAeDuIjNYCraWTVJ2tu2PbfnS24=
+
+Name: res/layout/journal_row.xml
+SHA1-Digest: w58n4/lKe9XM3SIxbYnDrRlx+bo=
+
+Name: res/layout/dialog_choose_filter_name.xml
+SHA1-Digest: awItBWrR7YVnsnVIi0euyZcRvJc=
+
+Name: res/layout/dropbox_credentials.xml
+SHA1-Digest: UhfPGXH5ctCmqCNSO5S1XwvhRiw=
+
+Name: res/drawable/blank_icon.png
+SHA1-Digest: U6YKp4DjlGWgk6RutyVtcYq4IDQ=
+
+Name: res/layout/dataviewer_row.xml
+SHA1-Digest: pWVv2/+AP59mO2K0hgGf+rt67Ko=
+
+Name: res/layout/create_new_folder.xml
+SHA1-Digest: t3qgaUy2zHAPBlP1Ctd41KmpmuA=
+
+Name: res/layout/directory_chooser_row.xml
+SHA1-Digest: Y0yaiTFVO4HER7ytZf1iuccNwyw=
+
+Name: res/drawable/ic_menu_add.png
+SHA1-Digest: 5mS9KMqA1MziXRpFEJPbTfu40+I=
+
+Name: lib/mips/libtitanium.so
+SHA1-Digest: 7uym8+DfRK6wZ9OuDj3Q7yjr7tM=
+
+Name: res/drawable-mdpi-v11/notif_lock_5.png
+SHA1-Digest: rJOpIZiFWibRRpDtiS1V1VRsJns=
+
+Name: res/drawable-hdpi/ic_bullet_key_permission_75_percent.png
+SHA1-Digest: CaF0PULmtkKDQAJTClkEsh2cK/s=
+
+Name: res/drawable/notif_lock_3.png
+SHA1-Digest: ykLLJIkIApOm4Ko6OokVRUqWO+M=
+
+Name: res/layout/tabs.xml
+SHA1-Digest: LCSd2FQ7vnkYz4jxDUoRxtv6puA=
+
+Name: res/layout/legendviewer.xml
+SHA1-Digest: ZzSgVtkdClRPeTRUkYp8Wd0tHKc=
+
+Name: res/layout/market_info_text_row.xml
+SHA1-Digest: ovTLbLoYzyu5bKkHHd1/a+TtrIo=
+
+Name: res/drawable-hdpi/ic_menu_help.png
+SHA1-Digest: 5wRmocXBB0eFFi5wn5SKfwfKKrI=
+
+Name: res/drawable/smiley_24x24.png
+SHA1-Digest: 6ENVrd2RwmFEn4oONMqKgz+KUdU=
+
+Name: res/drawable/ic_app_timedia.png
+SHA1-Digest: ADfLAgtHQyzHjJONJijCuuYLLJQ=
+
+Name: res/drawable/data_profile_widget.png
+SHA1-Digest: PYBrIPah0V2tkH5/Pyk65phGu3s=
+
+Name: res/layout/filterdialog_row.xml
+SHA1-Digest: 6woxCKSQuCuomL/e8O3VdEcxzyA=
+
+Name: res/drawable/app_name_background.xml
+SHA1-Digest: c6L1tF+UmHDcdrsoHYNKgUj+wA4=
+
+Name: res/layout/app_chooser_row.xml
+SHA1-Digest: AAY9Zqb+T8WbJSbvo/AIDT2QO+E=
+
+Name: res/layout/legendviewer_row.xml
+SHA1-Digest: numuoYtsBe1bJIV8f80PfDf7IKw=
+
+Name: res/layout/dataviewer.xml
+SHA1-Digest: De18RtAUQiYxCn40Ib5DoUSJMd4=
+
+Name: res/drawable/ic_menu_edit.png
+SHA1-Digest: EMVHjx2bcWoVHjZ5oP+MKgzQUlw=
+
+Name: res/drawable/kc_old_scroll.9.png
+SHA1-Digest: an10VYM0LkwKF3Jcrc/5uoSAMcw=
+
+Name: res/layout/scheduler_confirm_action.xml
+SHA1-Digest: Hl2VFFil7z3gfQQ7Uebg+/Mqpqg=
+
+Name: assets/dexopt-wrapper.armeabi
+SHA1-Digest: x5Vsb8nI1Wiupse5bTAon6pe/K8=
+
+Name: res/drawable-hdpi-v11/notif_lock_5.png
+SHA1-Digest: egEhimhCSXUIME+2ckozttyIMOA=
+
+Name: res/drawable/ic_menu_refresh.png
+SHA1-Digest: ZRu1XyNFRY8rgCiNCH5JBqew2ow=
+
+Name: res/drawable/hachure.png
+SHA1-Digest: g6LTjmWHCOEzCsv2uWfZvM+uy4c=
+
+Name: res/layout/text_row_with_img.xml
+SHA1-Digest: CtznQjvSTb3d88iKiaUib5ncekk=
+
+Name: res/drawable/ic_menu_search.png
+SHA1-Digest: HNwOX7A25W6FZJMCR1La5Ipkr2s=
+
+Name: res/layout/edit_personal_note.xml
+SHA1-Digest: 2VTIMJMeTAfHcm3Rbhtl+9v2e04=
+
+Name: org/codehaus/jackson/impl/VERSION.txt
+SHA1-Digest: g+7dXe9zrdoFNnmtbRPQwDJ1d78=
+
+Name: res/layout/batch_confirm_dialog.xml
+SHA1-Digest: icTJILAb9gd1rWWTNP+ksXOGqNM=
+
+Name: res/layout/changelog_viewer.xml
+SHA1-Digest: LCiRTc6blk32o47/6NjG+ItV9fA=
+
+Name: res/layout/text_row_with_img_v2.xml
+SHA1-Digest: c06RaAc8p4QjNlhMI7YXgolV5tM=
+
+Name: res/layout/detected_backup_locations_row.xml
+SHA1-Digest: 1RoEE0bDfsFeQtVGWc3BwTTxiNs=
+
+Name: assets/MarketUpdateHelper.apk
+SHA1-Digest: kArt4qk2PZ6bupsb4y+B+jcn6K0=
+
+Name: res/drawable/ic_bullet_key_permission_75_percent.png
+SHA1-Digest: uVBEdiMgnKHDPJIzQRTiPugSx38=
+
+Name: res/layout/edit_label.xml
+SHA1-Digest: 94ShWPdcNXzqAlP7wMJglh3Iwu4=
+
+Name: res/drawable/ic_menu_friendslist_cropped_except_right.png
+SHA1-Digest: w7JBgz/YFFC19cQALfDhW22LYUY=
+
+Name: res/layout/main_list_header.xml
+SHA1-Digest: ImMxgATFLuatKFeo62CSwCufNMM=
+
+Name: assets/busybox.x86
+SHA1-Digest: V3vQp2ylZvMXpiK647HVqoJQkaU=
+
+Name: res/drawable/notif_lock_4.png
+SHA1-Digest: F3fJCxjHCsjVkoIICyL1ZFFevBg=
+
+Name: res/drawable-hdpi/ic_menu_add.png
+SHA1-Digest: Odz9O4OqdoC9d1c2HpAgKIENi+Q=
+
+Name: res/drawable/binary.png
+SHA1-Digest: EV6Y2wbYzeUnIf0xNqhIuc/uwpc=
+
+Name: res/layout/tab_indicator.xml
+SHA1-Digest: YGjisX4C1fUcMDuwk8vujEJRDyA=
+
+Name: assets/reboot.mips
+SHA1-Digest: nA/vdKVfhcf77hbNslKvZK9POkc=
+
+Name: res/layout/notification_simple_warning.xml
+SHA1-Digest: wnHt9BUsb5dDXOkPt/esKYqj+rI=
+
+Name: res/drawable/ic_app_autorun.png
+SHA1-Digest: JHYacfuy5+IExYT5IUNWksqbjag=
+
+Name: res/drawable-mdpi/ic_menu_close_clear_cancel.png
+SHA1-Digest: zuJdfaVNv6W/W3hiS86biM+EZNk=
+
+Name: resources.arsc
+SHA1-Digest: A1/rpkIAH8en36Q8iM6ALUIwysY=
+
+Name: res/layout/db_columns_list.xml
+SHA1-Digest: AjN8M+1tx6aWLPXh4KjFWC8Xyys=
+
+Name: res/drawable/tab_border_selected.xml
+SHA1-Digest: iID07PQ/YP3hD0OyqrB/fEOJlWs=
+
+Name: assets/dexopt-wrapper.mips
+SHA1-Digest: SBQCDXay7SEACzfZAjHZ89/euNo=
+
+Name: assets/busybox.mips
+SHA1-Digest: j+2Gwhaigg/asY+bUBlYF+0pwKs=
+
+Name: AndroidManifest.xml
+SHA1-Digest: I9xK2vAqb1dZlikt+7y6xfpe/PE=
+
+Name: res/layout/select_target_file_path.xml
+SHA1-Digest: Cr6E/Sxm984c2PG2g3fIp5XMx00=
+
+Name: res/drawable/yes_24x24.png
+SHA1-Digest: fIM+jokS6O8VXUBfITmlWXk/HDw=
+
+Name: res/drawable/lock.png
+SHA1-Digest: psnzKfIO+Q3RY4MbufbXWMgcb28=
+
+Name: res/drawable-hdpi/ic_menu_close_clear_cancel.png
+SHA1-Digest: RpgEDrL933JOvDOPfPXY9NmZyuc=
+
+Name: res/layout/schedule_editor_dialog.xml
+SHA1-Digest: BpgKJe9wfvsA+f4mEMgrkKiHsxc=
+
+Name: res/layout/create_new_data_profile.xml
+SHA1-Digest: xkrNujPmfymsDoRZQ7tG9O/UIko=
+
+Name: res/drawable-hdpi/ic_menu_edit.png
+SHA1-Digest: cxOWAoZtQxazcqtvFm+Fo8wi9Nc=
+
+Name: res/xml/mywidget_info.xml
+SHA1-Digest: TrbPAZ/9VCNcB1GxsGe3OMQwwBs=
+
+Name: res/drawable/notif_icon_3.png
+SHA1-Digest: 8sk+RiBJ3aPu9oUE4OOFW7jCjg0=
+
+Name: res/xml/my_widget_preferences.xml
+SHA1-Digest: F2NUnGKD87y98+ACuCRJlVpgvEE=
+
+Name: res/layout/my_list_item.xml
+SHA1-Digest: /dP9p5xyXks/4ovtKVhdK+0Lj/w=
+
+Name: res/layout/filters_action_view.xml
+SHA1-Digest: v/6blxulIgUxd3EAl+yZ1CXOzd4=
+
+Name: res/drawable/red_x_cross.png
+SHA1-Digest: ouqXxu6BYa/zo/wCxIt8S+XsoHI=
+
+Name: res/layout/labels_to_synchronize.xml
+SHA1-Digest: D2iKdkXHcqckOywbbP/PEL71Dzo=
+
+Name: res/drawable-hdpi/ic_menu_friendslist_cropped_except_right.png
+SHA1-Digest: V809dm3+zMP7f/0MIdNtDssOJ1g=
+
+Name: res/layout/propertiesviewer_row.xml
+SHA1-Digest: zZ6U8psnLIgNR9svxFBA3OSDG9k=
+
+Name: res/drawable/information_icon.png
+SHA1-Digest: lrDLp+ki9HFm2zAd81blv9SzhXU=
+
+Name: res/layout/dialog_choose_package_name.xml
+SHA1-Digest: QqH4Hky0Hzyy3HJsH8C8N0lP9SM=
+
+Name: res/drawable-hdpi/ic_bullet_key_permission_cropped.png
+SHA1-Digest: BbAQusYaaILZ4Gf2+KnO9kLlBfc=
+
+Name: res/layout/dialog_with_links.xml
+SHA1-Digest: /0+cQ29MsiSz2D4IJ8MKVbOEQc0=
+
+Name: classes.dex
+SHA1-Digest: kXzYo3OjDoQ7JXL4Y+W2R8LdVFM=
+
+Name: res/layout/cwm_backups_list_view.xml
+SHA1-Digest: G12uOsCBiW24WudmrKkirLdZI+o=
+
+Name: res/drawable/ic_menu_help.png
+SHA1-Digest: tEdNQYXvOTfNloyL3VolH31vgGk=
+
+Name: res/drawable/notif_icon_4.png
+SHA1-Digest: WQ6BR5bFpQJNB3vyKTB5Zo+lNoU=
+
+Name: res/drawable/xml.png
+SHA1-Digest: 5neRhvn8uHPCl+gySEqJlm0ap9s=
+
+Name: res/drawable/icon.png
+SHA1-Digest: VINT4FUkD/kRjvM+L7DbMDbKvsk=
+
+Name: res/layout/update_zip_maker.xml
+SHA1-Digest: TIvNW/c29vSuR8FRaPhH/RlMaCI=
+
+Name: res/drawable-hdpi/ic_delete_cropped_gray.png
+SHA1-Digest: 32ljwiceI0H6YCU1LG6kxWdxGyw=
+
+Name: res/layout/filter_dialog.xml
+SHA1-Digest: bGAoHi6mlGL5kmmfWcbZd09kxNw=
+
+Name: res/drawable/file_1.png
+SHA1-Digest: kxHHAoIkFiK0xuVf4ZUMHXbgU+o=
+
+Name: res/layout/listview_with_header.xml
+SHA1-Digest: XICx04vkUIJuBS8odS43GOokMzQ=
+
+Name: assets/reboot.x86
+SHA1-Digest: qwIwnFyw7Wr6TE3vpOkfoFpRNtc=
+
+Name: res/drawable/lock_open_green.png
+SHA1-Digest: H5xpj+DVyWjmJ5ZYfbu4+FkkvD4=
+
+Name: res/layout/ask_passphrase_activity.xml
+SHA1-Digest: JBvANM9UZTb8PKLYmVuOsTwFa3Q=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: OMmAvdQrsom+d4//OZHyZBnH/qQ=
+
+Name: res/layout/text_row.xml
+SHA1-Digest: 8iT6UBNbEdHneFJ4lWtk2P1Xps0=
+
+Name: res/layout/extracted_android_ids_row.xml
+SHA1-Digest: rtPV9ShJKG9mXmqp30Vy9KCxe5o=
+
+Name: res/drawable/widget.png
+SHA1-Digest: XW3BXtQhDGJKa0Lg60Hj7ZFEhBE=
+
+Name: res/layout/cwm_restorable_apps_list_view.xml
+SHA1-Digest: WqdPxmCp5OpDcqLVk9n4IHlHgU4=
+
+Name: res/drawable/information_icon_red.png
+SHA1-Digest: N1rj4OWtwmMWmALmbycxq2E7NHE=
+
+Name: assets/dexopt-wrapper.x86
+SHA1-Digest: ITrjvjSXv0ATW1CO+1dOmL7ZJFY=
+
+Name: res/layout/multi_purpose_dialog.xml
+SHA1-Digest: +6iFHbjgGWaywlZTus7q/90pymA=
+
+Name: res/layout/app_market_info.xml
+SHA1-Digest: ZNIjach4ihxsrjgtqi09u3mrJfU=
+
+Name: res/layout/schedules_row_labels_list_row.xml
+SHA1-Digest: 8c7W2Yk8pQRXlwmJdxCGgLx+RjM=
+
+Name: res/xml/mydataprofilewidget_info.xml
+SHA1-Digest: PTPczknDxePTnwJun43RYtTvi4I=
+
+Name: res/drawable/my_border_light.xml
+SHA1-Digest: 50iK4gi3Pjhfok4qEG5i4jKqZpI=
+
+Name: res/layout/my_toast_parchment.xml
+SHA1-Digest: 8baX4lhnfXWtibhuSf/I909Tl5M=
+
+Name: res/drawable/ic_app_gps.png
+SHA1-Digest: yTPsR7KIItOe7BXFitLJWkq2GrY=
+
+Name: res/layout/full_screen_webview.xml
+SHA1-Digest: D+1G+qaZQKAHMbPEfq6m01nyCZs=
+
+Name: res/layout/mywidget_layout_2.xml
+SHA1-Digest: nAzFGTqXz066dTrSWLN1/S+dhBQ=
+
+Name: assets/sqlite3.mips
+SHA1-Digest: g+YRyVK2S0GL6kKE+n1y9cffYUc=
+
+Name: res/layout/propertiesviewer.xml
+SHA1-Digest: NkOLqAa3jsbJSMMyAMzPq7QuqzM=
+
+Name: res/drawable-ldpi-v11/notif_lock_5.png
+SHA1-Digest: kp7/dynjnx3MJ9d9VMpAREvg1cg=
+
+Name: res/drawable/ic_menu_friendslist.png
+SHA1-Digest: 2vsIKNaG1LUPIR81e12alzeMnqI=
+
+Name: res/drawable/hachure_red_trans_repeat.xml
+SHA1-Digest: Dcl7F7+efPLZwMoje5otYDh4mOA=
+
+Name: res/layout/dialog_special_features.xml
+SHA1-Digest: 4MWw+RDjOvq+aeONx5Jo8upV//8=
+
+Name: res/layout/assign_labels_to_package.xml
+SHA1-Digest: 0w6rbqvIjiapu3myXCyVOS+tMYQ=
+
+Name: res/layout/doublerow.xml
+SHA1-Digest: Ou7OB28Gj7avPszx5PrhLyfcku0=
+
+Name: res/layout/my_checkbox.xml
+SHA1-Digest: dv7ylKPabfFsW2DcQuxTrVzqYZE=
+
+Name: res/drawable-hdpi/ic_menu_friendslist.png
+SHA1-Digest: ihDIpvOxu3txAelxsyudRII2L74=
+
+Name: res/layout/app_init_progress.xml
+SHA1-Digest: xguqXMx+xbIZlJAwmddPWYTI1lA=
+
+Name: res/layout/directory_chooser.xml
+SHA1-Digest: M2nR+Mnmuu5VCQvjkbtSrZXnvoU=
+
+Name: res/layout/cwm_restorable_apps_list_row.xml
+SHA1-Digest: htZi1csFKa+pgAUnmKowbfnf/K0=
+
+Name: res/layout/schedules_row.xml
+SHA1-Digest: kh0gxIMPxpWcgArP9o6l8jzd2Eo=
+
+Name: org/apache/http/entity/mime/version.properties
+SHA1-Digest: iiszYWc7HEW/7aIlCjOXTowXGjQ=
+
+Name: res/drawable/sd_card.png
+SHA1-Digest: 1GOu9knKWwVBIjJCDCz+YXUFvIs=
+
+Name: res/drawable/smiley_system_24x24.png
+SHA1-Digest: wrxnozIc6Dgd7vSBE2rxVVh95WU=
+
+Name: res/drawable/lock_red.png
+SHA1-Digest: WCJYQo1yiSeXQZg4b79zrx1LiBQ=
+
+Name: res/layout/main.xml
+SHA1-Digest: TdCXtILOYXBwVvTadBRhTT1QoVk=
+
+Name: res/drawable/tab_border.xml
+SHA1-Digest: BrsxY/6JwtTAIRVzcXUh0JSIF/U=
+
+Name: res/drawable-xhdpi-v11/notif_icon_5.png
+SHA1-Digest: KgvjSDka/Vx3yuxGgCOtDgpxKPs=
+
+Name: res/layout/batchrow.xml
+SHA1-Digest: lUOfPO5V11HXrifZ972iZEAOg54=
+
+Name: res/drawable/hachure_repeat.xml
+SHA1-Digest: kupYPZkodJuU9l0EbQAnVm6eTOg=
+
+Name: res/layout/batch_confirm_dialog_row.xml
+SHA1-Digest: HXal97M6bb/zHHGmm/sDWZZHEs0=
+
+Name: res/drawable/notif_icon_1.png
+SHA1-Digest: qZrsVfenWPq6EN5MLoqeavQD924=
+
+Name: res/layout/xml_format_row.xml
+SHA1-Digest: dNYJ1giayO2+WPIFNVzaJ7THxV4=
+
+Name: res/drawable/ic_app_autokiller.png
+SHA1-Digest: 9jA5NQItkaia4PCS6L541FTutQI=
+
+Name: res/drawable/folder_1.png
+SHA1-Digest: 6c4ARrFVw0O8nQomUK9U1wylreA=
+
+Name: res/drawable-hdpi/ic_menu_mark.png
+SHA1-Digest: H51k20pmAjkwRlKxFFb8oKa2Wb4=
+
+Name: res/drawable/filter.png
+SHA1-Digest: 0lJr1xqLUOUgAqKUdfBNxkX6cFQ=
+
+Name: assets/reboot.armeabi
+SHA1-Digest: VfDWSucDObkDrzywpR/yOH2mexM=
+
+Name: res/drawable/android_phone.png
+SHA1-Digest: 9iNtEduLJqbUvNQSpEZgw3OQ2gE=
+
+Name: lib/x86/libtitanium.so
+SHA1-Digest: MDJJpuuRdF9BtNbLHI+SieANmcY=
+
+Name: res/layout/my_widget_preferences_actions.xml
+SHA1-Digest: py/uf//5B/n+t3B4eS91FK6tS0Q=
+
+Name: assets/busybox.armeabi
+SHA1-Digest: KjpQ5Tw99c9usHx36pCuMobVeh8=
+
+Name: res/layout/mywidget_layout.xml
+SHA1-Digest: RUFIyrDln5i6a6x+TMC//1KDvh4=
+
+Name: res/layout/my_toast_cloud.xml
+SHA1-Digest: G+tIl9y/kzp+jY+jgR43DF6+7Jw=
+
+Name: res/drawable/cartoon_cloud_modified.9.png
+SHA1-Digest: 2Yz4pG06cUso/KCgVfmS5demzW4=
+
+Name: res/drawable/notif_lock_1.png
+SHA1-Digest: Gv/MKn4sV6pLq2usqH6TG6Zcxgc=
+
+Name: res/drawable/lookout_icon_black_54x52.png
+SHA1-Digest: eM+FRxl2+6/+jIGXQIIDPK4n/Mc=
+
+Name: res/drawable/information_icon_bw.png
+SHA1-Digest: tqyXdglk518DeNKq8AFOSO9xJlA=
+
+Name: res/layout/box_authentication.xml
+SHA1-Digest: zRIcXUttwGdpbZE9auiHRyuHtz8=
+
+Name: res/drawable/smiley_market_24x24.png
+SHA1-Digest: Ojoeu/ueiKnbklmnAx/mcwF9PB4=
+
+Name: res/drawable/warning_24x24.png
+SHA1-Digest: yFCwnPdzoQYjt/LxjfmEihDVfIM=
+
+Name: res/layout-v11/notification_simple_warning.xml
+SHA1-Digest: /uqxMfomlLlpvGCorXiEFhP+Y3w=
+
+Name: res/layout/free_space_gauge.xml
+SHA1-Digest: lTJwWITWZGB5EJwGia6xQjAvqqI=
+
+Name: res/drawable-hdpi/ic_menu_search.png
+SHA1-Digest: uCApymQMtavrVS/XWvxtH4p9sQo=
+
+Name: res/drawable/ic_app_juice.png
+SHA1-Digest: pITJISFfjgGX3rh0AcCpde2iZuI=
+
+Name: res/layout/mydataprofilewidget_layout.xml
+SHA1-Digest: z6/BwlIOFWERlbwZYplDhJvAhmI=
+
+Name: res/drawable/hachure_red_trans.png
+SHA1-Digest: 1dI+zwyrafKAH2kXYhGy+JCW/HU=
+
+Name: res/layout/journal.xml
+SHA1-Digest: N8ZjjdN+nKGqszhqctRNaQyUwKs=
+
+Name: res/drawable/my_border.xml
+SHA1-Digest: 4yIhYI1SU0lpA2eQ8iXZKd7N+JY=
+
+Name: res/layout/welcome.xml
+SHA1-Digest: jf7BtYgnrEGRRTggZ/aE5hAhSmk=
+
+Name: assets/update-binary.armeabi
+SHA1-Digest: QoT94k5q1Bd5qyhRK5oPVHKmt38=
+
+Name: res/drawable/ic_app_titanium_backup_pro.png
+SHA1-Digest: 6UotYtY3BZOQjQRuZ0aFsLj8UyU=
+
+Name: res/drawable-hdpi-v11/notif_icon_5.png
+SHA1-Digest: SV4OzV/X4MurL2i8vlDnGjbmupY=
+
+Name: assets/sqlite3.armeabi
+SHA1-Digest: rf5O1SaDJD2VpXRI2xj+rZkjkxk=
+
+Name: res/drawable-hdpi/ic_menu_refresh.png
+SHA1-Digest: HZHIhDV85JGcKJ953UmOy0XGxns=
+
+Name: res/drawable/note.png
+SHA1-Digest: 2MgA2wLRj81O7G2genmW3az8ia4=
+
+Name: res/drawable/notif_lock_2.png
+SHA1-Digest: dhJufGFIJ+E9hZPV+ziALtq1HJ4=
+
+Name: res/drawable-hdpi/ic_menu_manage.png
+SHA1-Digest: FLmstU6zrjTHAf7JoU0KfmNGAno=
+
+Name: res/layout/chart_dialog.xml
+SHA1-Digest: DcjjBEislf30NJ1LSkAy6RF/xAA=
+
+Name: res/layout/data_profiles_list_row.xml
+SHA1-Digest: sCrAohHcptn/mm7/DZgnbtPo03c=
+
+Name: res/layout/schedules.xml
+SHA1-Digest: wFVsfefA3EyxNFAWy81rVYB8Rhw=
+
+Name: res/xml/my_data_profile_widget_preferences.xml
+SHA1-Digest: Tj5V+vPYMvYzNjnK0ssGvd/Pa60=
+
+Name: lib/armeabi/libtitanium.so
+SHA1-Digest: X8tOxu37OEGC6d12sPqH1E3RJ6Q=
+
+Name: res/drawable-xhdpi-v11/notif_lock_5.png
+SHA1-Digest: hN6yzUxm8vwXA7TWAj4s3KC0YYE=
+
+Name: res/layout/app_row.xml
+SHA1-Digest: nETZIg5fHCHCaRi9Lyr8Ys0OJy8=
+
+Name: res/drawable/notif_icon_2.png
+SHA1-Digest: Zf6F0UKzqqDz1oXYkHBc/kEHoIY=
+
+Name: res/drawable-ldpi-v11/notif_icon_5.png
+SHA1-Digest: 58weII8ezCWIvmKv+JSiHz8P9Ds=
+
+Name: res/drawable-hdpi/ic_delete_cropped.png
+SHA1-Digest: Sf61YbJ9zvaBe1ulH5DS0o2RdVg=
+
+Name: res/drawable-mdpi-v11/notif_icon_5.png
+SHA1-Digest: dorznios8cEAMIU0p0PDh7Yd/g4=
+
+Name: res/drawable/ic_menu_manage.png
+SHA1-Digest: OQujKxxZd0mcQ1rjmKzmpjA2F2k=
+
+Name: res/layout/cryptography_settings.xml
+SHA1-Digest: 37P0xCqUmjGaomhOnkiNvJodfK0=
+
+Name: res/drawable/smiley_market_system_24x24.png
+SHA1-Digest: vl44+BHC19bNRUc/fSkcKUBSJHc=
+
+Name: res/layout/changelog_row.xml
+SHA1-Digest: QnAoLpO+ddde2UY2wtofVpGIVvU=
+
+Name: res/layout/cwm_backups_list_view_row.xml
+SHA1-Digest: lPTo05S/WmmeOIlvTXt7y375ZEY=
+
+Name: assets/sqlite3.x86
+SHA1-Digest: nv9dle7T5WMTAbO2gQOKrMIKYSw=
+
+Name: res/drawable/ic_menu_mark.png
+SHA1-Digest: FNxrID71U0tStRPHT5zDw65D9/4=
+
+Name: res/layout/advanced_info_table.xml
+SHA1-Digest: 9X6aGmf8fIQ1vPV1H0XM07mJnm8=
+
